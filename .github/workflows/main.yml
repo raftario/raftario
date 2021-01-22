@@ -14,7 +14,7 @@ jobs:
           config_timezone: America/New_York
           repositories: 200
           plugin_languages: yes
-          plugin_languages_skipped: "minilibvorbisfile" 
+          plugin_languages_skipped: "minilibvorbisfile,libblister" 
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
