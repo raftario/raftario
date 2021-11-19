@@ -17,4 +17,4 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
           plugin_music_mode: recent
-          plugin_music_limit: 8
+          plugin_music_limit: 4
