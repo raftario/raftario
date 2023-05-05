@@ -13,3 +13,7 @@ interests
 - language implementations
 
 please refrain from contacting me about web3 or ai i am not interested and will report as spam
+
+---
+
+no gods, no masters.
