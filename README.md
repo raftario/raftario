@@ -13,3 +13,10 @@ interests
 - language implementations
 
 please refrain from contacting me about web3 or ai i am not interested and will report as spam
+
+---
+
+Si j'pouvais t'offrir une place qui te ressemble / 
+Un lieu qui grandit même si parfois nos mains tremblent /
+Pour la première fois l'hiver serait moins gris /
+La neige pourrait rester blanche sur toi, mon pays.
